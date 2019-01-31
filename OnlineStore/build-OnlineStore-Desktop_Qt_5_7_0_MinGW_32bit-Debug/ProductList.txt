@@ -1,0 +1,10 @@
+eggs	2.99	20
+meat	7.99	5
+milk 	3.99	15
+bread 	4.99	50
+cereal	4.99	20
+gum	1.99	10
+book	9.99	5
+toy	19.99	12
+dvd	9.99	9
+cd	9.99	2
